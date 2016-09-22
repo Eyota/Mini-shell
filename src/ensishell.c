@@ -21,6 +21,7 @@
  * following lines.  You may also have to comment related pkg-config
  * lines in CMakeLists.txt.
  */
+ //improve description
 
 #if USE_GUILE == 1
 #include <libguile.h>
